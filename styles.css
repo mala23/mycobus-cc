@@ -153,8 +153,8 @@ p {
 
 #avatar {
 	display: block;
-	width: 50rem;
-	height: 50rem;
+	width: 20rem;
+	height: 20rem;
 	margin: 0 0 1rem 0;
 }
 
@@ -207,20 +207,19 @@ button {
     display: flex;
     grid-column: 2 / span 4;
     justify-self: center;
-    max-width: 40rem;
+    max-width: 80rem;
   }
 
   #intro {
-    flex-direction: row;
-    max-width: 60rem;
+    flex-direction: column;
+    max-width: 100rem;
     align-items: flex-end;
     align-self: center;
-    height: 10rem;
   } 
 
   #avatar {
-    width: 20rem;
-    height: 20rem;
+    width: 30rem;
+    height: 30rem;
     margin: 0 2rem 1rem 0;
   }
 
