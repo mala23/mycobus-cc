@@ -1,2 +1,3 @@
-# mycobus-cc
-A website for my diploma project.
+# portfolio
+
+My personal portfolio site.
