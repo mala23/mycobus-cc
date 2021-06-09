@@ -27,6 +27,11 @@ header a {
 
 h1 {
   color: black;
+  font-family: blenny, sans-serif;
+  font-weight: 900;
+  font-style: normal;
+	font-size: 2rem;
+  letter-spacing: 2px;
 }
 
 nav {
@@ -128,13 +133,6 @@ footer {
   letter-spacing: .6px;
 }
 
-h1 {
-	font-family: objektiv-mk1, sans-serif;
-	font-style: normal;
-	font-weight: 500;
-	font-size: 2rem;
-}
-
 p {
 	font-family: objektiv-mk3, sans-serif;
 	font-style: normal;
@@ -227,7 +225,15 @@ button {
     max-width: 30rem;
   }
 
+  #workshops a p {
+  }
+
   form p {
     margin: 2rem 4rem;
+  }
+
+  #illucred {
+    font-size: .8rem;
+    margin: 0 0 0 2rem;
   }
 }
